@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhijeetpatil-hub/pharmacy-demand-forecasting/main)
+
 📊 Pharmacy Demand Forecasting & Inventory Intelligence System
 📌 Business Problem
 
