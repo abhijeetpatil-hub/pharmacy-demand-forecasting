@@ -180,7 +180,7 @@ Add automatic reorder-level recommendations
 Integrate expiry-based inventory risk
 
 Deploy dashboard for real-time access
-
+“Future work includes time-series models (ARIMA/Prophet) and SKU-level forecasting.”
 🧠 Why This Project Matters
 
 This project demonstrates the ability to:
