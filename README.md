@@ -87,13 +87,19 @@ Generated forecasts to assist inventory planning
 
 4️⃣ Model Evaluation
 
-The model was evaluated using standard regression metrics:
+T### 📐 Forecast Evaluation
 
-RMSE (Root Mean Square Error)
+The forecasting model was evaluated using standard regression metrics:
 
-MAE (Mean Absolute Error)
+- **MAE:** 48.89 units  
+- **RMSE:** 56.28 units  
+- **MAPE:** 115.98%
 
-These metrics help assess forecast accuracy and reliability before using predictions for business decisions.
+📌 **Interpretation:**  
+While MAPE appears high due to low-volume medicine sales (which inflate percentage errors), absolute metrics such as MAE and RMSE provide a more realistic measure of forecast accuracy for inventory planning.
+
+The model serves as a **baseline forecasting approach**, suitable for identifying demand trends and supporting reorder-level decisions.
+
 
 5️⃣ Visualization & Dashboarding
 
@@ -136,6 +142,7 @@ Increase customer satisfaction and revenue stability
 📊 Dashboard Preview
 
 <img width="1920" height="1080" alt="DASHBOARD (2)" src="https://github.com/user-attachments/assets/23317c88-afdf-4a4a-9228-346750e02352" />
+The Actual vs Predicted demand plot helps visually assess forecast bias and variability, confirming areas where the model underestimates or overestimates demand.
 
 
 visuals/pharmacy_demand_dashboard.png
