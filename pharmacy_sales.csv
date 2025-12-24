@@ -1,0 +1,732 @@
+Date,Medicine_Name,Category,Units_Sold,Unit_Price,Revenue,Stock_Available,Supplier,Expiry_Date,City
+2023-01-01,Atorvastatin,Syrup,184,33,6072,370,Abbott,2023-07-20,Pune
+2023-01-02,Amoxicillin,Tablet,79,15,1185,187,Abbott,2023-11-08,Hyderabad
+2023-01-03,Azithromycin,Capsule,92,48,4416,513,Sun Pharma,2024-01-09,Bangalore
+2023-01-04,Pantoprazole,Capsule,165,16,2640,413,Cipla,2024-10-19,Delhi
+2023-01-05,Atorvastatin,Syrup,174,32,5568,799,Sun Pharma,2024-03-03,Mumbai
+2023-01-06,Amoxicillin,Tablet,55,11,605,120,Dr Reddy,2024-04-03,Bangalore
+2023-01-07,Paracetamol,Capsule,64,18,1152,341,Cipla,2024-06-15,Hyderabad
+2023-01-08,Azithromycin,Syrup,88,32,2816,466,Abbott,2024-11-26,Delhi
+2023-01-09,Metformin,Capsule,85,40,3400,661,Sun Pharma,2024-07-31,Pune
+2023-01-10,Cetrizine,Capsule,58,33,1914,802,Sun Pharma,2023-12-17,Pune
+2023-01-11,Metformin,Syrup,18,35,630,915,Abbott,2024-10-13,Bangalore
+2023-01-12,Paracetamol,Tablet,194,44,8536,824,Sun Pharma,2023-09-01,Pune
+2023-01-13,Paracetamol,Tablet,192,49,9408,140,Dr Reddy,2023-09-14,Mumbai
+2023-01-14,Atorvastatin,Syrup,13,28,364,228,Dr Reddy,2024-11-22,Mumbai
+2023-01-15,Amoxicillin,Tablet,167,37,6179,478,Sun Pharma,2024-02-29,Pune
+2023-01-16,Paracetamol,Capsule,32,11,352,300,Cipla,2023-08-31,Hyderabad
+2023-01-17,Amoxicillin,Syrup,176,44,7744,825,Dr Reddy,2024-10-19,Delhi
+2023-01-18,Paracetamol,Syrup,9,30,270,602,Sun Pharma,2024-08-12,Pune
+2023-01-19,Azithromycin,Syrup,128,17,2176,790,Abbott,2024-03-14,Bangalore
+2023-01-20,Pantoprazole,Tablet,100,8,800,833,Dr Reddy,2024-03-05,Hyderabad
+2023-01-21,Atorvastatin,Tablet,175,33,5775,135,Abbott,2024-03-18,Bangalore
+2023-01-22,Azithromycin,Tablet,174,49,8526,673,Cipla,2023-08-17,Bangalore
+2023-01-23,Cetrizine,Capsule,88,34,2992,430,Dr Reddy,2024-07-03,Mumbai
+2023-01-24,Atorvastatin,Tablet,194,37,7178,484,Dr Reddy,2024-04-06,Delhi
+2023-01-25,Paracetamol,Syrup,66,41,2706,324,Sun Pharma,2024-07-31,Mumbai
+2023-01-26,Cetrizine,Syrup,117,16,1872,609,Sun Pharma,2024-08-14,Mumbai
+2023-01-27,Pantoprazole,Tablet,117,21,2457,798,Sun Pharma,2024-03-01,Hyderabad
+2023-01-28,Paracetamol,Capsule,133,23,3059,737,Cipla,2024-09-14,Bangalore
+2023-01-29,Atorvastatin,Capsule,188,21,3948,866,Abbott,2024-02-10,Delhi
+2023-01-30,Atorvastatin,Syrup,148,37,5476,300,Sun Pharma,2024-11-03,Hyderabad
+2023-01-31,Amoxicillin,Capsule,152,40,6080,502,Dr Reddy,2024-12-21,Delhi
+2023-02-01,Cetrizine,Tablet,100,11,1100,919,Cipla,2024-07-02,Mumbai
+2023-02-02,Amoxicillin,Syrup,189,29,5481,250,Sun Pharma,2024-05-24,Delhi
+2023-02-03,Atorvastatin,Tablet,148,30,4440,723,Abbott,2023-08-03,Mumbai
+2023-02-04,Metformin,Syrup,144,9,1296,136,Dr Reddy,2023-08-11,Mumbai
+2023-02-05,Amoxicillin,Capsule,151,20,3020,230,Abbott,2024-09-26,Bangalore
+2023-02-06,Metformin,Tablet,116,29,3364,198,Cipla,2024-07-07,Pune
+2023-02-07,Metformin,Tablet,167,20,3340,780,Abbott,2024-09-06,Hyderabad
+2023-02-08,Cetrizine,Syrup,132,12,1584,234,Cipla,2023-09-08,Bangalore
+2023-02-09,Amoxicillin,Capsule,119,26,3094,474,Sun Pharma,2023-09-14,Hyderabad
+2023-02-10,Amoxicillin,Syrup,186,12,2232,382,Sun Pharma,2024-05-11,Mumbai
+2023-02-11,Cetrizine,Tablet,115,37,4255,552,Abbott,2025-01-06,Delhi
+2023-02-12,Paracetamol,Capsule,21,48,1008,319,Cipla,2023-09-25,Hyderabad
+2023-02-13,Metformin,Tablet,103,45,4635,136,Cipla,2024-06-08,Hyderabad
+2023-02-14,Atorvastatin,Syrup,103,37,3811,215,Cipla,2024-01-20,Delhi
+2023-02-15,Azithromycin,Capsule,29,46,1334,834,Sun Pharma,2024-07-01,Pune
+2023-02-16,Atorvastatin,Syrup,90,27,2430,738,Sun Pharma,2024-09-03,Pune
+2023-02-17,Paracetamol,Syrup,108,37,3996,492,Sun Pharma,2024-02-07,Hyderabad
+2023-02-18,Azithromycin,Tablet,30,39,1170,917,Abbott,2025-01-22,Bangalore
+2023-02-19,Azithromycin,Tablet,139,40,5560,784,Abbott,2025-01-10,Bangalore
+2023-02-20,Amoxicillin,Capsule,147,32,4704,453,Abbott,2023-10-08,Mumbai
+2023-02-21,Azithromycin,Capsule,67,26,1742,413,Sun Pharma,2024-06-19,Bangalore
+2023-02-22,Azithromycin,Syrup,74,19,1406,153,Abbott,2024-05-10,Hyderabad
+2023-02-23,Cetrizine,Capsule,112,9,1008,202,Cipla,2024-08-05,Delhi
+2023-02-24,Atorvastatin,Capsule,172,20,3440,368,Abbott,2023-12-06,Delhi
+2023-02-25,Paracetamol,Capsule,124,23,2852,703,Dr Reddy,2024-08-03,Hyderabad
+2023-02-26,Azithromycin,Tablet,121,27,3267,226,Abbott,2023-10-21,Pune
+2023-02-27,Paracetamol,Capsule,38,36,1368,737,Abbott,2024-12-25,Hyderabad
+2023-02-28,Pantoprazole,Syrup,133,20,2660,288,Abbott,2024-11-15,Hyderabad
+2023-03-01,Metformin,Capsule,97,7,679,175,Abbott,2024-11-04,Hyderabad
+2023-03-02,Metformin,Tablet,189,33,6237,319,Dr Reddy,2023-11-30,Bangalore
+2023-03-03,Pantoprazole,Tablet,148,30,4440,573,Dr Reddy,2024-06-13,Hyderabad
+2023-03-04,Atorvastatin,Capsule,14,9,126,199,Abbott,2024-04-09,Pune
+2023-03-05,Azithromycin,Tablet,151,36,5436,868,Cipla,2025-01-28,Pune
+2023-03-06,Paracetamol,Capsule,132,36,4752,574,Dr Reddy,2024-09-15,Mumbai
+2023-03-07,Paracetamol,Syrup,193,47,9071,712,Cipla,2024-10-23,Pune
+2023-03-08,Amoxicillin,Syrup,48,33,1584,496,Sun Pharma,2024-05-13,Delhi
+2023-03-09,Azithromycin,Capsule,39,27,1053,948,Abbott,2024-10-26,Delhi
+2023-03-10,Paracetamol,Tablet,139,8,1112,925,Sun Pharma,2025-01-10,Delhi
+2023-03-11,Pantoprazole,Tablet,124,40,4960,828,Cipla,2024-10-04,Hyderabad
+2023-03-12,Paracetamol,Syrup,156,39,6084,788,Abbott,2023-12-12,Hyderabad
+2023-03-13,Cetrizine,Tablet,117,17,1989,378,Dr Reddy,2024-06-07,Mumbai
+2023-03-14,Metformin,Tablet,88,29,2552,441,Dr Reddy,2023-09-28,Mumbai
+2023-03-15,Cetrizine,Tablet,144,45,6480,175,Dr Reddy,2024-09-28,Bangalore
+2023-03-16,Amoxicillin,Tablet,115,20,2300,984,Dr Reddy,2024-10-11,Mumbai
+2023-03-17,Cetrizine,Tablet,127,25,3175,583,Dr Reddy,2024-02-03,Mumbai
+2023-03-18,Atorvastatin,Syrup,113,46,5198,285,Sun Pharma,2024-04-23,Pune
+2023-03-19,Pantoprazole,Syrup,167,27,4509,832,Dr Reddy,2023-09-23,Pune
+2023-03-20,Azithromycin,Capsule,149,42,6258,618,Cipla,2024-03-01,Pune
+2023-03-21,Paracetamol,Capsule,182,31,5642,733,Cipla,2023-10-15,Hyderabad
+2023-03-22,Metformin,Tablet,87,12,1044,595,Cipla,2024-08-24,Bangalore
+2023-03-23,Paracetamol,Capsule,75,29,2175,400,Abbott,2024-11-06,Delhi
+2023-03-24,Pantoprazole,Capsule,112,43,4816,190,Sun Pharma,2025-03-03,Delhi
+2023-03-25,Pantoprazole,Capsule,145,32,4640,737,Abbott,2025-01-08,Hyderabad
+2023-03-26,Atorvastatin,Syrup,109,43,4687,100,Cipla,2024-09-03,Mumbai
+2023-03-27,Atorvastatin,Tablet,117,29,3393,923,Sun Pharma,2024-01-17,Pune
+2023-03-28,Cetrizine,Tablet,177,36,6372,272,Dr Reddy,2024-02-19,Hyderabad
+2023-03-29,Amoxicillin,Tablet,168,39,6552,758,Sun Pharma,2023-11-10,Mumbai
+2023-03-30,Paracetamol,Tablet,18,19,342,514,Cipla,2024-06-10,Mumbai
+2023-03-31,Amoxicillin,Capsule,16,14,224,835,Abbott,2024-11-07,Bangalore
+2023-04-01,Pantoprazole,Capsule,12,32,384,775,Abbott,2024-08-08,Pune
+2023-04-02,Cetrizine,Syrup,105,45,4725,839,Sun Pharma,2024-02-20,Mumbai
+2023-04-03,Paracetamol,Syrup,161,17,2737,657,Cipla,2024-10-23,Pune
+2023-04-04,Amoxicillin,Capsule,51,29,1479,549,Abbott,2024-05-29,Delhi
+2023-04-05,Pantoprazole,Tablet,9,37,333,473,Sun Pharma,2024-05-12,Mumbai
+2023-04-06,Amoxicillin,Tablet,89,30,2670,162,Sun Pharma,2025-01-05,Mumbai
+2023-04-07,Azithromycin,Tablet,109,39,4251,610,Cipla,2025-03-04,Bangalore
+2023-04-08,Paracetamol,Syrup,99,9,891,969,Cipla,2023-10-27,Hyderabad
+2023-04-09,Pantoprazole,Syrup,169,14,2366,557,Cipla,2023-12-29,Mumbai
+2023-04-10,Metformin,Capsule,5,49,245,816,Cipla,2025-02-05,Pune
+2023-04-11,Cetrizine,Capsule,99,12,1188,650,Sun Pharma,2024-12-18,Delhi
+2023-04-12,Amoxicillin,Tablet,54,16,864,153,Sun Pharma,2024-11-12,Hyderabad
+2023-04-13,Pantoprazole,Syrup,146,6,876,174,Dr Reddy,2024-12-04,Bangalore
+2023-04-14,Azithromycin,Capsule,42,38,1596,949,Dr Reddy,2024-12-18,Pune
+2023-04-15,Cetrizine,Capsule,170,37,6290,434,Dr Reddy,2024-01-25,Delhi
+2023-04-16,Paracetamol,Capsule,137,33,4521,999,Abbott,2024-11-16,Pune
+2023-04-17,Paracetamol,Capsule,88,28,2464,168,Sun Pharma,2023-12-05,Pune
+2023-04-18,Pantoprazole,Syrup,130,47,6110,142,Dr Reddy,2024-02-02,Mumbai
+2023-04-19,Atorvastatin,Syrup,187,20,3740,194,Sun Pharma,2025-03-18,Bangalore
+2023-04-20,Cetrizine,Syrup,188,29,5452,294,Dr Reddy,2024-01-17,Pune
+2023-04-21,Pantoprazole,Tablet,126,23,2898,888,Sun Pharma,2025-04-03,Hyderabad
+2023-04-22,Metformin,Capsule,5,9,45,332,Sun Pharma,2024-01-04,Pune
+2023-04-23,Pantoprazole,Tablet,159,13,2067,893,Dr Reddy,2024-02-17,Delhi
+2023-04-24,Atorvastatin,Tablet,52,21,1092,125,Abbott,2024-06-29,Bangalore
+2023-04-25,Atorvastatin,Capsule,51,26,1326,625,Abbott,2024-01-07,Pune
+2023-04-26,Pantoprazole,Syrup,158,18,2844,798,Dr Reddy,2023-10-25,Delhi
+2023-04-27,Atorvastatin,Syrup,22,42,924,838,Dr Reddy,2024-05-02,Mumbai
+2023-04-28,Atorvastatin,Tablet,32,14,448,138,Cipla,2024-06-11,Pune
+2023-04-29,Metformin,Tablet,48,29,1392,244,Abbott,2023-11-19,Bangalore
+2023-04-30,Azithromycin,Capsule,71,45,3195,208,Dr Reddy,2024-06-10,Pune
+2023-05-01,Atorvastatin,Syrup,12,44,528,468,Sun Pharma,2024-12-25,Hyderabad
+2023-05-02,Metformin,Capsule,184,30,5520,419,Dr Reddy,2024-09-07,Hyderabad
+2023-05-03,Metformin,Capsule,125,37,4625,536,Cipla,2025-03-15,Bangalore
+2023-05-04,Metformin,Syrup,79,34,2686,706,Cipla,2024-06-29,Hyderabad
+2023-05-05,Cetrizine,Capsule,156,35,5460,105,Abbott,2024-01-14,Bangalore
+2023-05-06,Atorvastatin,Capsule,138,34,4692,603,Dr Reddy,2025-01-15,Pune
+2023-05-07,Atorvastatin,Tablet,140,30,4200,534,Abbott,2024-09-23,Pune
+2023-05-08,Metformin,Tablet,72,23,1656,823,Abbott,2024-02-24,Bangalore
+2023-05-09,Atorvastatin,Capsule,5,30,150,753,Cipla,2024-03-22,Bangalore
+2023-05-10,Pantoprazole,Capsule,7,37,259,789,Cipla,2024-04-25,Pune
+2023-05-11,Pantoprazole,Tablet,172,6,1032,695,Dr Reddy,2024-09-30,Mumbai
+2023-05-12,Paracetamol,Syrup,147,28,4116,649,Dr Reddy,2024-02-10,Mumbai
+2023-05-13,Pantoprazole,Tablet,66,48,3168,433,Abbott,2025-02-09,Mumbai
+2023-05-14,Azithromycin,Tablet,80,39,3120,646,Abbott,2024-09-24,Bangalore
+2023-05-15,Pantoprazole,Tablet,76,15,1140,972,Sun Pharma,2024-08-27,Hyderabad
+2023-05-16,Pantoprazole,Capsule,9,23,207,478,Sun Pharma,2024-03-22,Mumbai
+2023-05-17,Pantoprazole,Syrup,46,29,1334,501,Abbott,2025-04-21,Delhi
+2023-05-18,Pantoprazole,Syrup,170,37,6290,122,Dr Reddy,2024-04-06,Mumbai
+2023-05-19,Atorvastatin,Syrup,198,18,3564,920,Dr Reddy,2024-05-30,Delhi
+2023-05-20,Atorvastatin,Syrup,183,12,2196,653,Dr Reddy,2024-08-30,Bangalore
+2023-05-21,Metformin,Capsule,159,40,6360,256,Cipla,2024-02-21,Hyderabad
+2023-05-22,Pantoprazole,Capsule,159,37,5883,353,Sun Pharma,2025-04-22,Hyderabad
+2023-05-23,Amoxicillin,Capsule,78,37,2886,217,Cipla,2024-04-25,Bangalore
+2023-05-24,Pantoprazole,Tablet,184,19,3496,256,Cipla,2024-01-05,Bangalore
+2023-05-25,Cetrizine,Syrup,177,6,1062,510,Dr Reddy,2024-09-07,Pune
+2023-05-26,Amoxicillin,Syrup,31,9,279,759,Sun Pharma,2024-04-03,Pune
+2023-05-27,Metformin,Tablet,111,16,1776,317,Abbott,2024-06-19,Mumbai
+2023-05-28,Paracetamol,Syrup,115,44,5060,927,Abbott,2024-11-13,Bangalore
+2023-05-29,Pantoprazole,Syrup,124,41,5084,939,Sun Pharma,2024-12-06,Mumbai
+2023-05-30,Metformin,Tablet,55,33,1815,561,Sun Pharma,2025-01-05,Mumbai
+2023-05-31,Metformin,Capsule,105,25,2625,445,Abbott,2024-05-26,Mumbai
+2023-06-01,Paracetamol,Syrup,67,44,2948,760,Cipla,2024-10-01,Mumbai
+2023-06-02,Azithromycin,Syrup,184,30,5520,902,Abbott,2025-05-18,Pune
+2023-06-03,Amoxicillin,Syrup,42,6,252,309,Sun Pharma,2024-11-10,Mumbai
+2023-06-04,Amoxicillin,Syrup,191,48,9168,862,Sun Pharma,2023-12-25,Bangalore
+2023-06-05,Metformin,Tablet,92,37,3404,276,Dr Reddy,2024-05-05,Pune
+2023-06-06,Pantoprazole,Tablet,53,11,583,948,Cipla,2024-04-28,Bangalore
+2023-06-07,Atorvastatin,Syrup,193,44,8492,660,Cipla,2024-04-22,Delhi
+2023-06-08,Amoxicillin,Capsule,188,23,4324,417,Cipla,2024-10-04,Hyderabad
+2023-06-09,Pantoprazole,Syrup,34,20,680,523,Sun Pharma,2024-12-10,Pune
+2023-06-10,Azithromycin,Syrup,117,34,3978,777,Dr Reddy,2024-08-26,Hyderabad
+2023-06-11,Atorvastatin,Capsule,107,7,749,899,Sun Pharma,2024-05-17,Bangalore
+2023-06-12,Paracetamol,Capsule,91,32,2912,899,Dr Reddy,2024-11-21,Mumbai
+2023-06-13,Paracetamol,Syrup,71,28,1988,542,Cipla,2024-11-01,Mumbai
+2023-06-14,Atorvastatin,Syrup,71,37,2627,703,Abbott,2025-01-31,Delhi
+2023-06-15,Metformin,Tablet,36,47,1692,551,Sun Pharma,2025-03-24,Pune
+2023-06-16,Atorvastatin,Syrup,78,11,858,772,Cipla,2024-05-07,Hyderabad
+2023-06-17,Amoxicillin,Capsule,40,33,1320,799,Sun Pharma,2025-05-19,Pune
+2023-06-18,Atorvastatin,Syrup,134,7,938,570,Abbott,2025-05-29,Hyderabad
+2023-06-19,Pantoprazole,Tablet,170,34,5780,325,Abbott,2025-04-28,Pune
+2023-06-20,Metformin,Capsule,112,28,3136,692,Sun Pharma,2024-02-13,Mumbai
+2023-06-21,Azithromycin,Tablet,119,21,2499,625,Abbott,2024-08-10,Mumbai
+2023-06-22,Atorvastatin,Capsule,26,47,1222,593,Sun Pharma,2024-01-16,Hyderabad
+2023-06-23,Azithromycin,Capsule,41,15,615,937,Abbott,2024-01-30,Bangalore
+2023-06-24,Paracetamol,Tablet,170,38,6460,116,Cipla,2025-01-01,Bangalore
+2023-06-25,Atorvastatin,Tablet,121,46,5566,441,Dr Reddy,2024-10-03,Delhi
+2023-06-26,Azithromycin,Syrup,16,49,784,920,Sun Pharma,2025-01-26,Pune
+2023-06-27,Pantoprazole,Syrup,194,6,1164,921,Cipla,2024-10-10,Delhi
+2023-06-28,Azithromycin,Syrup,33,25,825,878,Abbott,2024-04-15,Delhi
+2023-06-29,Atorvastatin,Syrup,58,38,2204,154,Abbott,2025-02-03,Hyderabad
+2023-06-30,Paracetamol,Syrup,40,24,960,566,Abbott,2025-04-30,Mumbai
+2023-07-01,Metformin,Tablet,113,47,5311,581,Sun Pharma,2025-03-21,Hyderabad
+2023-07-02,Paracetamol,Tablet,44,21,924,740,Cipla,2024-02-08,Mumbai
+2023-07-03,Atorvastatin,Tablet,39,7,273,597,Abbott,2024-06-18,Delhi
+2023-07-04,Metformin,Syrup,106,38,4028,623,Cipla,2024-02-12,Delhi
+2023-07-05,Amoxicillin,Tablet,53,21,1113,429,Dr Reddy,2025-05-11,Bangalore
+2023-07-06,Metformin,Syrup,84,28,2352,438,Cipla,2024-03-22,Hyderabad
+2023-07-07,Metformin,Syrup,29,22,638,188,Dr Reddy,2025-05-05,Hyderabad
+2023-07-08,Azithromycin,Syrup,51,36,1836,877,Cipla,2024-03-29,Pune
+2023-07-09,Atorvastatin,Syrup,18,19,342,728,Cipla,2025-05-16,Delhi
+2023-07-10,Atorvastatin,Syrup,86,35,3010,471,Dr Reddy,2025-02-10,Delhi
+2023-07-11,Azithromycin,Syrup,107,21,2247,625,Abbott,2024-07-12,Hyderabad
+2023-07-12,Azithromycin,Capsule,135,41,5535,270,Dr Reddy,2025-01-05,Mumbai
+2023-07-13,Cetrizine,Capsule,97,26,2522,496,Cipla,2024-01-24,Hyderabad
+2023-07-14,Azithromycin,Syrup,112,6,672,410,Sun Pharma,2025-02-26,Delhi
+2023-07-15,Atorvastatin,Syrup,17,17,289,373,Dr Reddy,2024-02-18,Bangalore
+2023-07-16,Pantoprazole,Tablet,194,33,6402,417,Abbott,2024-10-09,Bangalore
+2023-07-17,Atorvastatin,Tablet,125,14,1750,458,Cipla,2024-01-15,Hyderabad
+2023-07-18,Metformin,Capsule,124,34,4216,423,Sun Pharma,2024-11-01,Mumbai
+2023-07-19,Paracetamol,Syrup,185,19,3515,684,Cipla,2024-12-23,Bangalore
+2023-07-20,Cetrizine,Tablet,191,41,7831,160,Dr Reddy,2025-01-29,Delhi
+2023-07-21,Metformin,Syrup,81,38,3078,252,Abbott,2024-11-21,Hyderabad
+2023-07-22,Amoxicillin,Capsule,114,14,1596,206,Cipla,2024-08-22,Mumbai
+2023-07-23,Paracetamol,Tablet,7,10,70,616,Sun Pharma,2024-03-05,Mumbai
+2023-07-24,Paracetamol,Tablet,103,24,2472,989,Cipla,2025-05-23,Delhi
+2023-07-25,Azithromycin,Syrup,86,21,1806,315,Abbott,2024-05-19,Hyderabad
+2023-07-26,Atorvastatin,Capsule,93,13,1209,679,Cipla,2024-10-14,Mumbai
+2023-07-27,Amoxicillin,Tablet,127,32,4064,640,Dr Reddy,2024-12-19,Pune
+2023-07-28,Paracetamol,Syrup,44,29,1276,360,Dr Reddy,2024-09-05,Bangalore
+2023-07-29,Atorvastatin,Tablet,42,12,504,350,Abbott,2025-04-22,Hyderabad
+2023-07-30,Cetrizine,Tablet,180,17,3060,895,Cipla,2024-05-18,Hyderabad
+2023-07-31,Metformin,Capsule,97,7,679,667,Abbott,2024-11-10,Delhi
+2023-08-01,Cetrizine,Syrup,101,45,4545,880,Cipla,2025-01-06,Hyderabad
+2023-08-02,Azithromycin,Syrup,104,31,3224,521,Cipla,2024-02-28,Pune
+2023-08-03,Azithromycin,Capsule,164,47,7708,536,Dr Reddy,2024-04-20,Bangalore
+2023-08-04,Azithromycin,Syrup,81,33,2673,623,Sun Pharma,2024-09-10,Hyderabad
+2023-08-05,Metformin,Syrup,159,45,7155,116,Sun Pharma,2025-04-23,Hyderabad
+2023-08-06,Amoxicillin,Syrup,74,23,1702,513,Sun Pharma,2024-09-21,Pune
+2023-08-07,Atorvastatin,Tablet,160,19,3040,321,Cipla,2024-11-06,Bangalore
+2023-08-08,Cetrizine,Syrup,100,40,4000,341,Abbott,2024-02-20,Bangalore
+2023-08-09,Metformin,Tablet,149,14,2086,985,Sun Pharma,2025-05-23,Delhi
+2023-08-10,Azithromycin,Syrup,54,18,972,803,Cipla,2024-09-19,Bangalore
+2023-08-11,Pantoprazole,Capsule,11,33,363,132,Dr Reddy,2024-04-25,Delhi
+2023-08-12,Amoxicillin,Capsule,62,27,1674,637,Sun Pharma,2024-11-18,Bangalore
+2023-08-13,Paracetamol,Syrup,103,17,1751,588,Dr Reddy,2024-07-14,Delhi
+2023-08-14,Cetrizine,Capsule,36,6,216,786,Abbott,2024-03-02,Delhi
+2023-08-15,Amoxicillin,Tablet,199,21,4179,481,Cipla,2024-12-09,Hyderabad
+2023-08-16,Amoxicillin,Tablet,88,10,880,758,Cipla,2025-03-04,Delhi
+2023-08-17,Paracetamol,Capsule,62,42,2604,626,Cipla,2024-07-24,Mumbai
+2023-08-18,Paracetamol,Syrup,28,16,448,885,Abbott,2024-09-08,Delhi
+2023-08-19,Cetrizine,Tablet,178,29,5162,756,Cipla,2025-07-18,Delhi
+2023-08-20,Metformin,Tablet,54,11,594,486,Abbott,2025-08-04,Bangalore
+2023-08-21,Azithromycin,Syrup,135,24,3240,657,Cipla,2024-09-09,Mumbai
+2023-08-22,Metformin,Capsule,88,40,3520,620,Abbott,2025-07-02,Hyderabad
+2023-08-23,Azithromycin,Tablet,92,12,1104,494,Cipla,2024-04-30,Hyderabad
+2023-08-24,Azithromycin,Syrup,68,22,1496,465,Dr Reddy,2024-08-03,Delhi
+2023-08-25,Pantoprazole,Syrup,37,42,1554,524,Sun Pharma,2024-05-18,Mumbai
+2023-08-26,Paracetamol,Capsule,80,36,2880,562,Sun Pharma,2024-05-23,Bangalore
+2023-08-27,Paracetamol,Tablet,172,36,6192,341,Sun Pharma,2024-10-04,Mumbai
+2023-08-28,Paracetamol,Capsule,162,37,5994,688,Sun Pharma,2024-06-05,Pune
+2023-08-29,Metformin,Capsule,107,30,3210,785,Sun Pharma,2024-07-16,Pune
+2023-08-30,Azithromycin,Syrup,123,48,5904,404,Cipla,2024-03-05,Mumbai
+2023-08-31,Atorvastatin,Capsule,164,45,7380,469,Abbott,2025-01-09,Bangalore
+2023-09-01,Metformin,Capsule,115,11,1265,558,Sun Pharma,2024-03-20,Pune
+2023-09-02,Atorvastatin,Capsule,7,45,315,799,Sun Pharma,2024-03-11,Bangalore
+2023-09-03,Pantoprazole,Capsule,29,49,1421,342,Dr Reddy,2025-02-19,Hyderabad
+2023-09-04,Pantoprazole,Capsule,123,36,4428,406,Sun Pharma,2025-02-16,Mumbai
+2023-09-05,Amoxicillin,Syrup,135,32,4320,813,Dr Reddy,2025-05-21,Hyderabad
+2023-09-06,Metformin,Syrup,195,19,3705,452,Abbott,2024-08-09,Pune
+2023-09-07,Pantoprazole,Capsule,28,24,672,904,Abbott,2024-08-03,Pune
+2023-09-08,Paracetamol,Capsule,183,36,6588,716,Cipla,2025-07-30,Bangalore
+2023-09-09,Azithromycin,Syrup,83,38,3154,873,Sun Pharma,2025-03-12,Pune
+2023-09-10,Metformin,Tablet,129,16,2064,742,Sun Pharma,2024-03-28,Mumbai
+2023-09-11,Amoxicillin,Capsule,30,12,360,199,Dr Reddy,2024-12-31,Bangalore
+2023-09-12,Metformin,Tablet,82,6,492,474,Cipla,2025-01-21,Bangalore
+2023-09-13,Pantoprazole,Syrup,115,18,2070,603,Cipla,2024-06-02,Pune
+2023-09-14,Atorvastatin,Tablet,74,21,1554,990,Cipla,2024-04-08,Pune
+2023-09-15,Amoxicillin,Tablet,9,5,45,523,Dr Reddy,2025-01-09,Delhi
+2023-09-16,Azithromycin,Capsule,199,18,3582,691,Cipla,2025-03-09,Mumbai
+2023-09-17,Pantoprazole,Tablet,24,12,288,782,Cipla,2024-12-23,Mumbai
+2023-09-18,Amoxicillin,Tablet,169,41,6929,303,Cipla,2025-07-25,Bangalore
+2023-09-19,Cetrizine,Syrup,115,19,2185,719,Cipla,2025-02-13,Pune
+2023-09-20,Paracetamol,Tablet,41,24,984,381,Cipla,2024-07-14,Delhi
+2023-09-21,Metformin,Tablet,63,9,567,260,Dr Reddy,2024-10-10,Bangalore
+2023-09-22,Azithromycin,Syrup,24,28,672,350,Sun Pharma,2024-10-22,Pune
+2023-09-23,Pantoprazole,Syrup,189,43,8127,322,Dr Reddy,2024-09-14,Bangalore
+2023-09-24,Metformin,Capsule,88,27,2376,483,Cipla,2025-01-23,Pune
+2023-09-25,Azithromycin,Tablet,128,12,1536,440,Dr Reddy,2025-03-09,Hyderabad
+2023-09-26,Atorvastatin,Syrup,90,38,3420,292,Dr Reddy,2024-10-27,Delhi
+2023-09-27,Azithromycin,Capsule,162,22,3564,244,Abbott,2025-01-21,Mumbai
+2023-09-28,Cetrizine,Tablet,76,29,2204,913,Cipla,2024-08-19,Hyderabad
+2023-09-29,Pantoprazole,Capsule,109,30,3270,319,Sun Pharma,2024-09-03,Mumbai
+2023-09-30,Paracetamol,Tablet,180,17,3060,684,Cipla,2024-09-02,Mumbai
+2023-10-01,Amoxicillin,Capsule,72,38,2736,480,Sun Pharma,2024-04-16,Pune
+2023-10-02,Azithromycin,Syrup,145,45,6525,378,Cipla,2025-02-23,Mumbai
+2023-10-03,Metformin,Tablet,58,11,638,700,Dr Reddy,2024-06-03,Bangalore
+2023-10-04,Azithromycin,Tablet,147,25,3675,927,Cipla,2025-05-22,Mumbai
+2023-10-05,Paracetamol,Capsule,39,48,1872,201,Dr Reddy,2024-04-04,Hyderabad
+2023-10-06,Azithromycin,Tablet,76,6,456,553,Cipla,2024-09-03,Mumbai
+2023-10-07,Cetrizine,Tablet,137,38,5206,403,Dr Reddy,2025-01-28,Bangalore
+2023-10-08,Atorvastatin,Capsule,47,27,1269,425,Sun Pharma,2025-04-03,Delhi
+2023-10-09,Amoxicillin,Syrup,25,27,675,718,Abbott,2024-07-31,Bangalore
+2023-10-10,Atorvastatin,Syrup,29,40,1160,814,Dr Reddy,2025-02-24,Hyderabad
+2023-10-11,Pantoprazole,Tablet,23,38,874,433,Abbott,2025-04-15,Bangalore
+2023-10-12,Metformin,Syrup,31,33,1023,850,Abbott,2024-08-30,Pune
+2023-10-13,Cetrizine,Tablet,162,22,3564,101,Cipla,2024-07-08,Mumbai
+2023-10-14,Metformin,Capsule,11,35,385,207,Dr Reddy,2024-09-16,Mumbai
+2023-10-15,Azithromycin,Capsule,193,46,8878,135,Dr Reddy,2025-05-01,Bangalore
+2023-10-16,Pantoprazole,Capsule,110,17,1870,986,Sun Pharma,2025-01-14,Bangalore
+2023-10-17,Paracetamol,Capsule,30,13,390,882,Abbott,2025-04-26,Mumbai
+2023-10-18,Pantoprazole,Tablet,174,12,2088,251,Sun Pharma,2025-02-01,Bangalore
+2023-10-19,Azithromycin,Syrup,156,23,3588,711,Sun Pharma,2024-09-08,Delhi
+2023-10-20,Cetrizine,Tablet,187,9,1683,786,Dr Reddy,2024-08-02,Pune
+2023-10-21,Paracetamol,Tablet,123,25,3075,761,Dr Reddy,2025-06-10,Bangalore
+2023-10-22,Atorvastatin,Tablet,164,15,2460,749,Sun Pharma,2024-07-04,Hyderabad
+2023-10-23,Paracetamol,Syrup,157,6,942,419,Dr Reddy,2025-04-28,Hyderabad
+2023-10-24,Atorvastatin,Capsule,173,15,2595,379,Dr Reddy,2024-11-24,Pune
+2023-10-25,Atorvastatin,Tablet,113,40,4520,843,Cipla,2024-07-03,Mumbai
+2023-10-26,Amoxicillin,Tablet,74,45,3330,807,Cipla,2025-09-21,Bangalore
+2023-10-27,Amoxicillin,Capsule,164,25,4100,875,Abbott,2024-06-29,Bangalore
+2023-10-28,Pantoprazole,Capsule,62,7,434,441,Sun Pharma,2024-10-13,Pune
+2023-10-29,Metformin,Capsule,39,38,1482,570,Abbott,2025-01-14,Bangalore
+2023-10-30,Azithromycin,Tablet,40,9,360,944,Dr Reddy,2025-02-23,Mumbai
+2023-10-31,Atorvastatin,Syrup,110,34,3740,732,Abbott,2024-05-09,Mumbai
+2023-11-01,Cetrizine,Capsule,140,24,3360,614,Cipla,2025-02-01,Bangalore
+2023-11-02,Amoxicillin,Tablet,108,9,972,971,Cipla,2025-02-09,Hyderabad
+2023-11-03,Cetrizine,Syrup,154,22,3388,555,Abbott,2024-10-08,Hyderabad
+2023-11-04,Cetrizine,Capsule,42,38,1596,608,Abbott,2025-08-25,Pune
+2023-11-05,Pantoprazole,Capsule,70,45,3150,440,Dr Reddy,2025-07-25,Delhi
+2023-11-06,Amoxicillin,Capsule,184,27,4968,765,Dr Reddy,2025-01-20,Delhi
+2023-11-07,Metformin,Tablet,175,19,3325,441,Abbott,2025-09-06,Bangalore
+2023-11-08,Atorvastatin,Capsule,53,46,2438,777,Cipla,2024-10-10,Pune
+2023-11-09,Metformin,Syrup,138,7,966,947,Abbott,2025-10-14,Mumbai
+2023-11-10,Atorvastatin,Syrup,153,39,5967,677,Sun Pharma,2025-08-16,Bangalore
+2023-11-11,Azithromycin,Tablet,14,29,406,892,Sun Pharma,2025-02-21,Bangalore
+2023-11-12,Atorvastatin,Capsule,18,5,90,209,Sun Pharma,2025-05-25,Bangalore
+2023-11-13,Amoxicillin,Tablet,173,10,1730,124,Cipla,2025-09-04,Hyderabad
+2023-11-14,Azithromycin,Tablet,29,19,551,679,Abbott,2024-05-23,Bangalore
+2023-11-15,Pantoprazole,Capsule,35,18,630,631,Cipla,2025-08-02,Hyderabad
+2023-11-16,Amoxicillin,Syrup,134,27,3618,566,Dr Reddy,2025-10-12,Delhi
+2023-11-17,Azithromycin,Capsule,14,29,406,741,Dr Reddy,2025-01-22,Mumbai
+2023-11-18,Atorvastatin,Tablet,87,13,1131,198,Cipla,2024-10-18,Delhi
+2023-11-19,Atorvastatin,Tablet,84,20,1680,863,Abbott,2024-08-25,Bangalore
+2023-11-20,Cetrizine,Capsule,56,40,2240,223,Dr Reddy,2024-07-19,Hyderabad
+2023-11-21,Cetrizine,Syrup,195,39,7605,618,Abbott,2025-10-26,Hyderabad
+2023-11-22,Pantoprazole,Syrup,90,9,810,609,Sun Pharma,2025-06-28,Hyderabad
+2023-11-23,Azithromycin,Tablet,62,43,2666,164,Cipla,2025-01-17,Hyderabad
+2023-11-24,Pantoprazole,Tablet,185,22,4070,272,Dr Reddy,2025-09-30,Bangalore
+2023-11-25,Amoxicillin,Syrup,195,25,4875,407,Cipla,2025-10-14,Bangalore
+2023-11-26,Azithromycin,Syrup,56,22,1232,843,Cipla,2025-08-02,Hyderabad
+2023-11-27,Metformin,Tablet,46,25,1150,653,Cipla,2024-09-06,Mumbai
+2023-11-28,Paracetamol,Tablet,173,5,865,229,Cipla,2024-06-04,Pune
+2023-11-29,Azithromycin,Syrup,192,44,8448,888,Dr Reddy,2024-12-12,Mumbai
+2023-11-30,Atorvastatin,Tablet,149,27,4023,955,Dr Reddy,2025-07-17,Bangalore
+2023-12-01,Paracetamol,Tablet,91,41,3731,107,Abbott,2025-10-15,Delhi
+2023-12-02,Paracetamol,Tablet,113,28,3164,582,Cipla,2024-10-24,Hyderabad
+2023-12-03,Azithromycin,Syrup,163,40,6520,750,Dr Reddy,2025-06-25,Delhi
+2023-12-04,Cetrizine,Tablet,55,47,2585,541,Cipla,2025-05-16,Pune
+2023-12-05,Metformin,Tablet,115,36,4140,467,Dr Reddy,2025-05-27,Mumbai
+2023-12-06,Paracetamol,Capsule,198,19,3762,660,Abbott,2024-11-18,Mumbai
+2023-12-07,Azithromycin,Syrup,123,14,1722,248,Abbott,2025-06-12,Hyderabad
+2023-12-08,Pantoprazole,Capsule,164,35,5740,387,Dr Reddy,2025-11-08,Mumbai
+2023-12-09,Azithromycin,Syrup,187,13,2431,764,Sun Pharma,2024-10-07,Pune
+2023-12-10,Paracetamol,Tablet,118,26,3068,513,Abbott,2025-03-21,Delhi
+2023-12-11,Metformin,Capsule,117,25,2925,221,Dr Reddy,2024-07-16,Mumbai
+2023-12-12,Cetrizine,Tablet,179,22,3938,248,Sun Pharma,2025-04-06,Bangalore
+2023-12-13,Amoxicillin,Tablet,90,26,2340,334,Sun Pharma,2025-09-18,Pune
+2023-12-14,Pantoprazole,Syrup,184,31,5704,661,Dr Reddy,2025-07-22,Bangalore
+2023-12-15,Pantoprazole,Tablet,26,47,1222,520,Cipla,2025-11-08,Delhi
+2023-12-16,Atorvastatin,Syrup,161,34,5474,906,Cipla,2024-10-18,Hyderabad
+2023-12-17,Atorvastatin,Tablet,140,46,6440,285,Abbott,2025-03-01,Delhi
+2023-12-18,Paracetamol,Capsule,136,44,5984,582,Sun Pharma,2025-10-18,Mumbai
+2023-12-19,Azithromycin,Syrup,153,43,6579,830,Sun Pharma,2024-10-05,Hyderabad
+2023-12-20,Paracetamol,Capsule,168,26,4368,333,Sun Pharma,2024-06-28,Mumbai
+2023-12-21,Metformin,Tablet,18,38,684,536,Abbott,2024-08-26,Delhi
+2023-12-22,Pantoprazole,Tablet,190,8,1520,722,Abbott,2024-07-08,Pune
+2023-12-23,Metformin,Tablet,158,41,6478,841,Sun Pharma,2025-07-29,Pune
+2023-12-24,Metformin,Tablet,178,8,1424,287,Cipla,2024-07-10,Mumbai
+2023-12-25,Atorvastatin,Capsule,75,8,600,320,Dr Reddy,2025-05-23,Pune
+2023-12-26,Atorvastatin,Capsule,136,28,3808,261,Sun Pharma,2024-11-28,Bangalore
+2023-12-27,Cetrizine,Tablet,151,23,3473,505,Abbott,2025-05-03,Hyderabad
+2023-12-28,Atorvastatin,Tablet,104,23,2392,531,Abbott,2025-06-09,Mumbai
+2023-12-29,Atorvastatin,Syrup,150,32,4800,862,Dr Reddy,2024-10-21,Hyderabad
+2023-12-30,Paracetamol,Syrup,149,10,1490,359,Dr Reddy,2025-07-30,Bangalore
+2023-12-31,Amoxicillin,Tablet,107,13,1391,701,Cipla,2025-11-09,Hyderabad
+2024-01-01,Azithromycin,Tablet,54,7,378,718,Sun Pharma,2025-03-09,Hyderabad
+2024-01-02,Metformin,Tablet,85,49,4165,662,Dr Reddy,2025-08-29,Delhi
+2024-01-03,Metformin,Tablet,158,9,1422,448,Abbott,2024-08-18,Hyderabad
+2024-01-04,Azithromycin,Capsule,196,9,1764,455,Sun Pharma,2025-03-18,Pune
+2024-01-05,Amoxicillin,Capsule,133,28,3724,412,Cipla,2024-12-31,Bangalore
+2024-01-06,Cetrizine,Tablet,192,35,6720,695,Abbott,2025-08-15,Bangalore
+2024-01-07,Azithromycin,Syrup,162,26,4212,319,Dr Reddy,2025-02-09,Pune
+2024-01-08,Metformin,Capsule,110,29,3190,304,Abbott,2025-02-18,Delhi
+2024-01-09,Cetrizine,Tablet,86,47,4042,540,Abbott,2025-12-07,Pune
+2024-01-10,Amoxicillin,Syrup,152,28,4256,754,Cipla,2025-09-06,Pune
+2024-01-11,Cetrizine,Tablet,124,18,2232,412,Sun Pharma,2024-07-29,Pune
+2024-01-12,Pantoprazole,Tablet,135,27,3645,829,Abbott,2025-05-10,Delhi
+2024-01-13,Amoxicillin,Tablet,93,25,2325,483,Cipla,2025-09-08,Mumbai
+2024-01-14,Azithromycin,Capsule,121,8,968,994,Cipla,2025-06-03,Mumbai
+2024-01-15,Paracetamol,Capsule,156,38,5928,127,Dr Reddy,2025-09-08,Mumbai
+2024-01-16,Paracetamol,Capsule,102,10,1020,593,Sun Pharma,2025-12-12,Pune
+2024-01-17,Metformin,Capsule,116,6,696,941,Abbott,2025-09-22,Hyderabad
+2024-01-18,Atorvastatin,Syrup,90,16,1440,443,Abbott,2025-05-05,Bangalore
+2024-01-19,Amoxicillin,Syrup,142,39,5538,803,Dr Reddy,2024-08-17,Hyderabad
+2024-01-20,Cetrizine,Capsule,158,8,1264,977,Dr Reddy,2025-07-28,Hyderabad
+2024-01-21,Atorvastatin,Syrup,120,32,3840,881,Cipla,2024-09-14,Bangalore
+2024-01-22,Azithromycin,Capsule,117,6,702,859,Dr Reddy,2024-09-01,Mumbai
+2024-01-23,Azithromycin,Syrup,10,43,430,535,Cipla,2025-08-03,Pune
+2024-01-24,Amoxicillin,Syrup,151,9,1359,406,Abbott,2025-04-15,Pune
+2024-01-25,Cetrizine,Tablet,45,40,1800,584,Abbott,2025-03-17,Pune
+2024-01-26,Azithromycin,Capsule,64,24,1536,553,Dr Reddy,2025-08-14,Hyderabad
+2024-01-27,Amoxicillin,Capsule,31,47,1457,139,Cipla,2025-03-01,Mumbai
+2024-01-28,Atorvastatin,Syrup,12,41,492,991,Cipla,2025-04-11,Delhi
+2024-01-29,Paracetamol,Syrup,16,15,240,913,Abbott,2024-12-02,Hyderabad
+2024-01-30,Atorvastatin,Capsule,25,34,850,368,Abbott,2024-11-06,Pune
+2024-01-31,Atorvastatin,Tablet,63,31,1953,936,Dr Reddy,2025-07-16,Bangalore
+2024-02-01,Paracetamol,Capsule,152,38,5776,765,Sun Pharma,2025-03-13,Hyderabad
+2024-02-02,Cetrizine,Capsule,13,42,546,533,Dr Reddy,2025-08-11,Delhi
+2024-02-03,Azithromycin,Tablet,179,48,8592,975,Cipla,2025-03-14,Delhi
+2024-02-04,Cetrizine,Capsule,34,30,1020,376,Sun Pharma,2025-09-22,Hyderabad
+2024-02-05,Amoxicillin,Syrup,184,38,6992,140,Dr Reddy,2025-07-06,Pune
+2024-02-06,Amoxicillin,Capsule,189,27,5103,275,Cipla,2025-05-19,Bangalore
+2024-02-07,Pantoprazole,Syrup,20,38,760,165,Abbott,2025-04-09,Bangalore
+2024-02-08,Atorvastatin,Tablet,171,10,1710,300,Abbott,2025-02-12,Delhi
+2024-02-09,Cetrizine,Capsule,190,29,5510,914,Dr Reddy,2025-02-13,Hyderabad
+2024-02-10,Amoxicillin,Tablet,61,18,1098,559,Dr Reddy,2025-09-04,Delhi
+2024-02-11,Cetrizine,Syrup,81,19,1539,309,Cipla,2025-04-16,Delhi
+2024-02-12,Atorvastatin,Capsule,191,31,5921,453,Sun Pharma,2024-12-29,Bangalore
+2024-02-13,Pantoprazole,Capsule,76,39,2964,758,Dr Reddy,2025-12-30,Bangalore
+2024-02-14,Paracetamol,Capsule,29,44,1276,955,Sun Pharma,2024-11-02,Delhi
+2024-02-15,Amoxicillin,Tablet,174,23,4002,812,Dr Reddy,2024-10-14,Mumbai
+2024-02-16,Amoxicillin,Capsule,128,23,2944,497,Cipla,2025-11-21,Mumbai
+2024-02-17,Paracetamol,Syrup,124,29,3596,753,Cipla,2025-07-14,Mumbai
+2024-02-18,Cetrizine,Capsule,72,32,2304,875,Cipla,2024-12-20,Hyderabad
+2024-02-19,Metformin,Syrup,117,34,3978,367,Dr Reddy,2025-12-23,Pune
+2024-02-20,Pantoprazole,Tablet,153,9,1377,403,Dr Reddy,2025-03-06,Hyderabad
+2024-02-21,Paracetamol,Tablet,72,39,2808,581,Abbott,2025-06-15,Bangalore
+2024-02-22,Metformin,Syrup,80,19,1520,972,Sun Pharma,2025-09-29,Hyderabad
+2024-02-23,Amoxicillin,Tablet,42,24,1008,604,Dr Reddy,2024-12-30,Bangalore
+2024-02-24,Cetrizine,Tablet,8,26,208,175,Dr Reddy,2025-12-26,Pune
+2024-02-25,Azithromycin,Syrup,95,45,4275,868,Sun Pharma,2025-05-11,Mumbai
+2024-02-26,Azithromycin,Capsule,149,16,2384,361,Dr Reddy,2025-12-03,Bangalore
+2024-02-27,Azithromycin,Tablet,197,33,6501,720,Dr Reddy,2025-10-22,Delhi
+2024-02-28,Pantoprazole,Capsule,88,17,1496,800,Cipla,2025-06-23,Mumbai
+2024-02-29,Metformin,Tablet,140,47,6580,503,Sun Pharma,2025-08-02,Hyderabad
+2024-03-01,Paracetamol,Capsule,196,46,9016,462,Sun Pharma,2025-04-17,Mumbai
+2024-03-02,Pantoprazole,Tablet,53,45,2385,628,Dr Reddy,2025-02-27,Mumbai
+2024-03-03,Atorvastatin,Syrup,145,15,2175,593,Dr Reddy,2025-07-28,Hyderabad
+2024-03-04,Paracetamol,Tablet,172,48,8256,118,Cipla,2024-12-17,Bangalore
+2024-03-05,Pantoprazole,Syrup,165,49,8085,701,Abbott,2025-05-08,Hyderabad
+2024-03-06,Paracetamol,Tablet,95,27,2565,769,Dr Reddy,2025-07-22,Mumbai
+2024-03-07,Atorvastatin,Syrup,168,22,3696,584,Dr Reddy,2025-10-19,Bangalore
+2024-03-08,Paracetamol,Syrup,80,19,1520,140,Sun Pharma,2024-12-17,Pune
+2024-03-09,Azithromycin,Capsule,55,15,825,365,Sun Pharma,2024-12-31,Mumbai
+2024-03-10,Paracetamol,Capsule,43,32,1376,870,Dr Reddy,2026-02-01,Hyderabad
+2024-03-11,Metformin,Capsule,135,20,2700,449,Cipla,2025-06-01,Delhi
+2024-03-12,Amoxicillin,Tablet,69,49,3381,456,Sun Pharma,2024-10-26,Mumbai
+2024-03-13,Atorvastatin,Tablet,156,42,6552,895,Sun Pharma,2024-12-24,Pune
+2024-03-14,Cetrizine,Tablet,103,49,5047,474,Cipla,2024-10-09,Bangalore
+2024-03-15,Cetrizine,Syrup,102,36,3672,550,Abbott,2025-03-01,Mumbai
+2024-03-16,Atorvastatin,Capsule,27,44,1188,174,Dr Reddy,2025-01-07,Bangalore
+2024-03-17,Cetrizine,Capsule,165,28,4620,778,Abbott,2024-09-19,Bangalore
+2024-03-18,Pantoprazole,Syrup,60,5,300,292,Abbott,2025-04-03,Bangalore
+2024-03-19,Azithromycin,Syrup,167,47,7849,578,Sun Pharma,2025-10-14,Mumbai
+2024-03-20,Paracetamol,Capsule,42,9,378,491,Abbott,2025-11-29,Bangalore
+2024-03-21,Metformin,Tablet,69,35,2415,487,Cipla,2025-11-24,Hyderabad
+2024-03-22,Metformin,Syrup,124,28,3472,542,Dr Reddy,2025-02-19,Delhi
+2024-03-23,Amoxicillin,Tablet,55,10,550,926,Dr Reddy,2025-05-21,Pune
+2024-03-24,Pantoprazole,Tablet,126,41,5166,269,Dr Reddy,2024-12-15,Bangalore
+2024-03-25,Azithromycin,Syrup,117,33,3861,176,Dr Reddy,2026-02-02,Mumbai
+2024-03-26,Pantoprazole,Tablet,26,8,208,168,Cipla,2025-07-23,Hyderabad
+2024-03-27,Azithromycin,Syrup,113,26,2938,920,Dr Reddy,2025-09-11,Hyderabad
+2024-03-28,Amoxicillin,Syrup,89,48,4272,632,Dr Reddy,2026-02-04,Mumbai
+2024-03-29,Cetrizine,Syrup,195,28,5460,736,Cipla,2025-01-13,Pune
+2024-03-30,Amoxicillin,Capsule,183,21,3843,198,Abbott,2025-04-27,Mumbai
+2024-03-31,Azithromycin,Tablet,23,41,943,952,Cipla,2025-03-09,Delhi
+2024-04-01,Atorvastatin,Capsule,68,31,2108,216,Dr Reddy,2025-02-14,Hyderabad
+2024-04-02,Metformin,Tablet,143,43,6149,575,Cipla,2025-03-31,Bangalore
+2024-04-03,Paracetamol,Tablet,50,16,800,681,Dr Reddy,2025-02-23,Pune
+2024-04-04,Cetrizine,Syrup,56,36,2016,681,Dr Reddy,2025-05-16,Delhi
+2024-04-05,Paracetamol,Syrup,194,28,5432,506,Dr Reddy,2026-02-12,Pune
+2024-04-06,Paracetamol,Capsule,183,18,3294,830,Abbott,2025-10-02,Delhi
+2024-04-07,Atorvastatin,Tablet,77,12,924,215,Cipla,2025-09-05,Mumbai
+2024-04-08,Paracetamol,Syrup,100,12,1200,246,Sun Pharma,2025-08-23,Delhi
+2024-04-09,Pantoprazole,Capsule,17,35,595,819,Abbott,2024-10-27,Hyderabad
+2024-04-10,Metformin,Capsule,175,7,1225,665,Sun Pharma,2025-08-22,Hyderabad
+2024-04-11,Cetrizine,Syrup,198,45,8910,763,Abbott,2025-07-20,Mumbai
+2024-04-12,Metformin,Capsule,51,39,1989,118,Abbott,2025-01-29,Delhi
+2024-04-13,Paracetamol,Tablet,40,29,1160,648,Dr Reddy,2025-02-27,Hyderabad
+2024-04-14,Cetrizine,Tablet,132,13,1716,226,Abbott,2025-04-22,Mumbai
+2024-04-15,Azithromycin,Capsule,178,18,3204,483,Dr Reddy,2025-10-04,Delhi
+2024-04-16,Amoxicillin,Tablet,76,7,532,287,Cipla,2025-07-29,Hyderabad
+2024-04-17,Pantoprazole,Capsule,87,42,3654,627,Abbott,2025-10-23,Pune
+2024-04-18,Azithromycin,Capsule,128,20,2560,457,Sun Pharma,2026-01-31,Hyderabad
+2024-04-19,Atorvastatin,Syrup,163,38,6194,394,Abbott,2025-05-18,Delhi
+2024-04-20,Metformin,Tablet,57,43,2451,420,Cipla,2025-12-27,Hyderabad
+2024-04-21,Pantoprazole,Tablet,151,23,3473,412,Sun Pharma,2024-11-17,Mumbai
+2024-04-22,Atorvastatin,Capsule,27,36,972,545,Sun Pharma,2026-02-14,Bangalore
+2024-04-23,Cetrizine,Capsule,164,18,2952,277,Abbott,2024-12-11,Bangalore
+2024-04-24,Pantoprazole,Capsule,63,27,1701,875,Abbott,2025-08-06,Pune
+2024-04-25,Azithromycin,Tablet,131,15,1965,972,Dr Reddy,2026-01-05,Mumbai
+2024-04-26,Azithromycin,Capsule,97,30,2910,885,Sun Pharma,2025-05-19,Pune
+2024-04-27,Paracetamol,Tablet,138,9,1242,988,Abbott,2025-03-09,Delhi
+2024-04-28,Azithromycin,Capsule,176,8,1408,711,Dr Reddy,2025-03-14,Delhi
+2024-04-29,Paracetamol,Tablet,116,16,1856,790,Cipla,2026-02-08,Pune
+2024-04-30,Pantoprazole,Syrup,165,31,5115,828,Sun Pharma,2025-04-19,Hyderabad
+2024-05-01,Pantoprazole,Syrup,17,41,697,635,Cipla,2026-01-22,Mumbai
+2024-05-02,Metformin,Tablet,25,24,600,822,Sun Pharma,2025-02-06,Bangalore
+2024-05-03,Paracetamol,Capsule,103,22,2266,867,Dr Reddy,2025-06-22,Mumbai
+2024-05-04,Cetrizine,Tablet,17,22,374,840,Abbott,2024-11-30,Pune
+2024-05-05,Paracetamol,Capsule,77,42,3234,558,Abbott,2025-02-08,Hyderabad
+2024-05-06,Atorvastatin,Tablet,177,49,8673,261,Abbott,2025-07-22,Bangalore
+2024-05-07,Azithromycin,Tablet,7,32,224,425,Abbott,2026-03-05,Mumbai
+2024-05-08,Cetrizine,Tablet,25,47,1175,326,Cipla,2024-12-22,Pune
+2024-05-09,Pantoprazole,Tablet,48,14,672,657,Cipla,2025-02-14,Pune
+2024-05-10,Metformin,Capsule,85,40,3400,497,Dr Reddy,2025-11-27,Mumbai
+2024-05-11,Cetrizine,Syrup,186,28,5208,640,Cipla,2025-11-19,Bangalore
+2024-05-12,Azithromycin,Syrup,69,24,1656,218,Cipla,2025-02-19,Bangalore
+2024-05-13,Azithromycin,Syrup,31,46,1426,798,Sun Pharma,2026-01-03,Hyderabad
+2024-05-14,Paracetamol,Tablet,37,11,407,855,Sun Pharma,2024-11-21,Delhi
+2024-05-15,Pantoprazole,Syrup,139,40,5560,722,Cipla,2025-04-19,Delhi
+2024-05-16,Paracetamol,Syrup,49,26,1274,158,Cipla,2026-03-15,Hyderabad
+2024-05-17,Azithromycin,Syrup,160,17,2720,178,Abbott,2025-06-18,Bangalore
+2024-05-18,Azithromycin,Tablet,108,13,1404,730,Abbott,2026-01-21,Delhi
+2024-05-19,Atorvastatin,Tablet,36,32,1152,377,Cipla,2025-02-12,Bangalore
+2024-05-20,Atorvastatin,Capsule,110,30,3300,124,Dr Reddy,2025-09-12,Delhi
+2024-05-21,Amoxicillin,Syrup,185,12,2220,459,Dr Reddy,2026-01-02,Delhi
+2024-05-22,Amoxicillin,Capsule,69,42,2898,315,Abbott,2025-04-25,Mumbai
+2024-05-23,Metformin,Tablet,30,9,270,695,Dr Reddy,2025-07-24,Mumbai
+2024-05-24,Azithromycin,Syrup,170,31,5270,837,Abbott,2025-03-21,Hyderabad
+2024-05-25,Metformin,Capsule,138,42,5796,673,Sun Pharma,2025-06-18,Pune
+2024-05-26,Metformin,Syrup,145,35,5075,833,Sun Pharma,2026-04-23,Hyderabad
+2024-05-27,Cetrizine,Syrup,112,37,4144,820,Cipla,2025-01-11,Delhi
+2024-05-28,Atorvastatin,Tablet,160,48,7680,681,Abbott,2025-08-02,Delhi
+2024-05-29,Azithromycin,Tablet,194,16,3104,238,Cipla,2025-08-25,Delhi
+2024-05-30,Atorvastatin,Capsule,59,42,2478,985,Sun Pharma,2025-12-20,Bangalore
+2024-05-31,Cetrizine,Tablet,119,33,3927,670,Sun Pharma,2025-08-26,Delhi
+2024-06-01,Amoxicillin,Tablet,84,6,504,346,Sun Pharma,2024-12-05,Bangalore
+2024-06-02,Atorvastatin,Syrup,98,5,490,526,Cipla,2025-06-03,Bangalore
+2024-06-03,Azithromycin,Tablet,90,33,2970,185,Cipla,2025-02-11,Bangalore
+2024-06-04,Pantoprazole,Syrup,160,46,7360,354,Cipla,2025-05-19,Bangalore
+2024-06-05,Azithromycin,Capsule,59,12,708,702,Cipla,2025-05-05,Mumbai
+2024-06-06,Pantoprazole,Tablet,199,48,9552,752,Sun Pharma,2025-08-24,Delhi
+2024-06-07,Azithromycin,Tablet,133,36,4788,700,Dr Reddy,2026-01-11,Hyderabad
+2024-06-08,Metformin,Syrup,167,39,6513,724,Dr Reddy,2024-12-21,Pune
+2024-06-09,Pantoprazole,Syrup,120,33,3960,792,Sun Pharma,2025-10-25,Mumbai
+2024-06-10,Azithromycin,Syrup,5,30,150,976,Sun Pharma,2025-10-17,Delhi
+2024-06-11,Paracetamol,Tablet,109,9,981,989,Cipla,2025-09-11,Pune
+2024-06-12,Pantoprazole,Tablet,173,33,5709,679,Abbott,2025-03-17,Bangalore
+2024-06-13,Azithromycin,Syrup,119,23,2737,208,Dr Reddy,2025-11-01,Pune
+2024-06-14,Pantoprazole,Syrup,153,18,2754,231,Sun Pharma,2025-03-04,Pune
+2024-06-15,Cetrizine,Syrup,113,33,3729,652,Abbott,2026-04-19,Mumbai
+2024-06-16,Amoxicillin,Tablet,72,19,1368,520,Dr Reddy,2025-12-14,Delhi
+2024-06-17,Atorvastatin,Capsule,193,40,7720,635,Abbott,2025-09-29,Mumbai
+2024-06-18,Paracetamol,Tablet,185,27,4995,976,Dr Reddy,2025-08-25,Hyderabad
+2024-06-19,Metformin,Tablet,173,10,1730,456,Sun Pharma,2026-01-10,Hyderabad
+2024-06-20,Pantoprazole,Capsule,7,26,182,914,Dr Reddy,2026-05-11,Bangalore
+2024-06-21,Atorvastatin,Capsule,173,9,1557,442,Sun Pharma,2026-06-07,Delhi
+2024-06-22,Amoxicillin,Capsule,189,40,7560,650,Cipla,2025-10-24,Hyderabad
+2024-06-23,Paracetamol,Syrup,20,35,700,301,Sun Pharma,2025-08-30,Mumbai
+2024-06-24,Paracetamol,Capsule,143,36,5148,109,Cipla,2026-03-01,Mumbai
+2024-06-25,Amoxicillin,Tablet,153,41,6273,201,Cipla,2025-06-30,Mumbai
+2024-06-26,Amoxicillin,Syrup,40,21,840,588,Abbott,2025-07-04,Delhi
+2024-06-27,Metformin,Syrup,5,27,135,477,Cipla,2025-11-01,Mumbai
+2024-06-28,Azithromycin,Tablet,173,33,5709,172,Sun Pharma,2025-09-12,Bangalore
+2024-06-29,Cetrizine,Tablet,7,21,147,674,Abbott,2025-06-18,Hyderabad
+2024-06-30,Atorvastatin,Syrup,196,5,980,948,Sun Pharma,2025-04-05,Bangalore
+2024-07-01,Azithromycin,Syrup,117,23,2691,142,Abbott,2025-03-15,Pune
+2024-07-02,Paracetamol,Syrup,18,38,684,800,Abbott,2025-11-08,Hyderabad
+2024-07-03,Amoxicillin,Syrup,138,37,5106,267,Cipla,2025-07-10,Hyderabad
+2024-07-04,Amoxicillin,Capsule,84,10,840,624,Dr Reddy,2026-04-02,Mumbai
+2024-07-05,Cetrizine,Syrup,99,8,792,527,Sun Pharma,2026-01-11,Delhi
+2024-07-06,Paracetamol,Syrup,76,11,836,305,Dr Reddy,2025-06-29,Pune
+2024-07-07,Cetrizine,Capsule,76,37,2812,212,Cipla,2025-11-29,Hyderabad
+2024-07-08,Amoxicillin,Tablet,144,21,3024,196,Cipla,2025-03-13,Delhi
+2024-07-09,Paracetamol,Capsule,66,45,2970,118,Cipla,2026-03-30,Bangalore
+2024-07-10,Paracetamol,Syrup,145,24,3480,793,Dr Reddy,2025-08-08,Delhi
+2024-07-11,Metformin,Capsule,152,33,5016,891,Dr Reddy,2026-01-02,Mumbai
+2024-07-12,Azithromycin,Tablet,66,33,2178,301,Sun Pharma,2026-06-09,Pune
+2024-07-13,Pantoprazole,Capsule,160,45,7200,181,Abbott,2026-03-09,Mumbai
+2024-07-14,Amoxicillin,Syrup,181,16,2896,682,Dr Reddy,2025-04-17,Mumbai
+2024-07-15,Amoxicillin,Capsule,6,28,168,685,Sun Pharma,2025-06-13,Delhi
+2024-07-16,Atorvastatin,Syrup,43,31,1333,768,Sun Pharma,2025-01-31,Delhi
+2024-07-17,Paracetamol,Syrup,186,24,4464,207,Abbott,2026-05-10,Pune
+2024-07-18,Metformin,Capsule,57,38,2166,934,Dr Reddy,2025-10-23,Pune
+2024-07-19,Paracetamol,Syrup,100,10,1000,844,Abbott,2025-03-14,Bangalore
+2024-07-20,Azithromycin,Syrup,161,8,1288,164,Sun Pharma,2025-10-08,Hyderabad
+2024-07-21,Atorvastatin,Tablet,63,26,1638,659,Dr Reddy,2025-09-21,Bangalore
+2024-07-22,Azithromycin,Tablet,162,29,4698,383,Cipla,2025-11-14,Bangalore
+2024-07-23,Atorvastatin,Syrup,53,13,689,263,Cipla,2026-03-14,Mumbai
+2024-07-24,Pantoprazole,Capsule,50,46,2300,899,Abbott,2025-07-04,Mumbai
+2024-07-25,Azithromycin,Capsule,118,31,3658,153,Dr Reddy,2026-06-11,Hyderabad
+2024-07-26,Atorvastatin,Syrup,157,32,5024,466,Abbott,2026-02-04,Mumbai
+2024-07-27,Amoxicillin,Tablet,158,23,3634,347,Dr Reddy,2026-02-03,Mumbai
+2024-07-28,Azithromycin,Syrup,182,24,4368,592,Cipla,2025-06-23,Bangalore
+2024-07-29,Atorvastatin,Tablet,67,37,2479,465,Dr Reddy,2025-11-16,Delhi
+2024-07-30,Pantoprazole,Capsule,182,7,1274,929,Cipla,2025-12-22,Pune
+2024-07-31,Metformin,Capsule,52,14,728,437,Dr Reddy,2025-10-28,Bangalore
+2024-08-01,Amoxicillin,Capsule,67,17,1139,603,Dr Reddy,2026-06-05,Pune
+2024-08-02,Paracetamol,Tablet,77,10,770,718,Dr Reddy,2026-02-01,Bangalore
+2024-08-03,Cetrizine,Capsule,101,41,4141,748,Abbott,2025-08-04,Hyderabad
+2024-08-04,Azithromycin,Capsule,193,47,9071,222,Sun Pharma,2026-03-26,Pune
+2024-08-05,Cetrizine,Capsule,111,41,4551,434,Sun Pharma,2025-04-04,Delhi
+2024-08-06,Azithromycin,Capsule,189,17,3213,871,Abbott,2025-06-16,Hyderabad
+2024-08-07,Amoxicillin,Syrup,58,28,1624,935,Cipla,2025-02-05,Pune
+2024-08-08,Paracetamol,Tablet,133,42,5586,137,Abbott,2025-02-24,Pune
+2024-08-09,Atorvastatin,Syrup,199,49,9751,402,Dr Reddy,2025-04-14,Mumbai
+2024-08-10,Cetrizine,Capsule,144,31,4464,411,Dr Reddy,2025-11-09,Hyderabad
+2024-08-11,Atorvastatin,Tablet,126,28,3528,252,Dr Reddy,2026-03-02,Bangalore
+2024-08-12,Metformin,Syrup,181,46,8326,413,Abbott,2025-05-15,Mumbai
+2024-08-13,Pantoprazole,Syrup,65,13,845,105,Cipla,2025-03-19,Mumbai
+2024-08-14,Metformin,Tablet,9,46,414,186,Abbott,2026-05-26,Delhi
+2024-08-15,Metformin,Tablet,61,26,1586,556,Dr Reddy,2026-02-17,Hyderabad
+2024-08-16,Paracetamol,Tablet,108,25,2700,549,Sun Pharma,2025-03-01,Mumbai
+2024-08-17,Metformin,Capsule,130,47,6110,515,Dr Reddy,2025-06-07,Bangalore
+2024-08-18,Azithromycin,Syrup,32,15,480,305,Dr Reddy,2025-06-20,Delhi
+2024-08-19,Metformin,Syrup,147,32,4704,763,Cipla,2025-07-01,Mumbai
+2024-08-20,Metformin,Syrup,23,7,161,429,Sun Pharma,2026-05-10,Hyderabad
+2024-08-21,Azithromycin,Tablet,102,17,1734,857,Sun Pharma,2025-05-20,Hyderabad
+2024-08-22,Paracetamol,Capsule,68,33,2244,394,Cipla,2025-04-29,Hyderabad
+2024-08-23,Pantoprazole,Capsule,30,7,210,106,Cipla,2025-06-01,Hyderabad
+2024-08-24,Paracetamol,Tablet,66,21,1386,270,Dr Reddy,2026-03-13,Hyderabad
+2024-08-25,Pantoprazole,Tablet,164,30,4920,479,Sun Pharma,2025-05-04,Mumbai
+2024-08-26,Pantoprazole,Syrup,90,20,1800,524,Abbott,2025-09-08,Hyderabad
+2024-08-27,Amoxicillin,Syrup,151,6,906,528,Dr Reddy,2025-07-11,Hyderabad
+2024-08-28,Metformin,Syrup,34,44,1496,757,Abbott,2025-09-05,Bangalore
+2024-08-29,Atorvastatin,Syrup,189,44,8316,391,Abbott,2025-06-20,Mumbai
+2024-08-30,Paracetamol,Tablet,177,22,3894,933,Cipla,2026-01-26,Bangalore
+2024-08-31,Pantoprazole,Syrup,127,46,5842,832,Dr Reddy,2025-03-01,Delhi
+2024-09-01,Atorvastatin,Syrup,66,8,528,606,Sun Pharma,2026-06-21,Delhi
+2024-09-02,Amoxicillin,Capsule,162,47,7614,997,Abbott,2026-02-11,Bangalore
+2024-09-03,Azithromycin,Tablet,65,19,1235,147,Abbott,2025-07-15,Mumbai
+2024-09-04,Azithromycin,Tablet,62,41,2542,467,Sun Pharma,2026-06-25,Pune
+2024-09-05,Cetrizine,Tablet,103,41,4223,310,Dr Reddy,2025-06-03,Mumbai
+2024-09-06,Atorvastatin,Tablet,138,33,4554,541,Abbott,2026-07-07,Hyderabad
+2024-09-07,Pantoprazole,Capsule,66,46,3036,943,Cipla,2025-11-29,Delhi
+2024-09-08,Metformin,Syrup,20,12,240,715,Cipla,2025-04-15,Hyderabad
+2024-09-09,Amoxicillin,Capsule,134,34,4556,833,Abbott,2026-04-06,Mumbai
+2024-09-10,Azithromycin,Capsule,6,16,96,470,Dr Reddy,2026-01-20,Mumbai
+2024-09-11,Metformin,Syrup,42,7,294,777,Sun Pharma,2025-05-09,Mumbai
+2024-09-12,Metformin,Tablet,177,36,6372,255,Sun Pharma,2026-05-21,Bangalore
+2024-09-13,Atorvastatin,Capsule,123,10,1230,439,Cipla,2026-02-14,Bangalore
+2024-09-14,Paracetamol,Tablet,32,12,384,868,Dr Reddy,2026-08-28,Hyderabad
+2024-09-15,Pantoprazole,Tablet,100,39,3900,690,Abbott,2025-07-11,Pune
+2024-09-16,Metformin,Tablet,60,44,2640,866,Dr Reddy,2025-06-26,Hyderabad
+2024-09-17,Metformin,Syrup,150,6,900,363,Cipla,2025-09-13,Hyderabad
+2024-09-18,Metformin,Syrup,180,31,5580,375,Cipla,2025-06-15,Hyderabad
+2024-09-19,Azithromycin,Syrup,199,49,9751,958,Dr Reddy,2026-04-21,Hyderabad
+2024-09-20,Pantoprazole,Syrup,117,39,4563,558,Cipla,2026-07-30,Delhi
+2024-09-21,Metformin,Capsule,52,39,2028,697,Dr Reddy,2026-06-24,Pune
+2024-09-22,Paracetamol,Syrup,104,36,3744,794,Abbott,2025-11-10,Pune
+2024-09-23,Amoxicillin,Tablet,7,20,140,808,Cipla,2025-08-06,Delhi
+2024-09-24,Paracetamol,Syrup,72,33,2376,482,Dr Reddy,2026-06-15,Pune
+2024-09-25,Pantoprazole,Syrup,175,29,5075,375,Dr Reddy,2026-09-14,Hyderabad
+2024-09-26,Atorvastatin,Tablet,63,9,567,662,Abbott,2025-07-15,Pune
+2024-09-27,Cetrizine,Syrup,170,29,4930,113,Abbott,2025-09-30,Pune
+2024-09-28,Amoxicillin,Syrup,59,22,1298,987,Dr Reddy,2025-12-28,Bangalore
+2024-09-29,Pantoprazole,Syrup,91,45,4095,670,Cipla,2025-09-25,Pune
+2024-09-30,Metformin,Syrup,87,5,435,163,Abbott,2025-10-07,Bangalore
+2024-10-01,Metformin,Capsule,179,21,3759,192,Sun Pharma,2026-06-06,Bangalore
+2024-10-02,Azithromycin,Syrup,116,37,4292,474,Dr Reddy,2025-10-23,Bangalore
+2024-10-03,Metformin,Syrup,24,34,816,265,Abbott,2025-10-01,Pune
+2024-10-04,Metformin,Tablet,17,17,289,933,Cipla,2026-06-13,Pune
+2024-10-05,Amoxicillin,Capsule,112,44,4928,910,Abbott,2025-04-10,Hyderabad
+2024-10-06,Azithromycin,Syrup,162,21,3402,739,Abbott,2026-09-04,Hyderabad
+2024-10-07,Amoxicillin,Syrup,188,31,5828,280,Abbott,2025-12-16,Mumbai
+2024-10-08,Amoxicillin,Capsule,183,24,4392,904,Cipla,2025-11-14,Mumbai
+2024-10-09,Atorvastatin,Syrup,99,34,3366,465,Cipla,2025-12-30,Mumbai
+2024-10-10,Paracetamol,Tablet,68,46,3128,449,Dr Reddy,2026-08-14,Delhi
+2024-10-11,Azithromycin,Capsule,182,11,2002,463,Sun Pharma,2026-01-09,Pune
+2024-10-12,Metformin,Syrup,142,36,5112,663,Cipla,2025-07-02,Delhi
+2024-10-13,Pantoprazole,Syrup,130,44,5720,683,Abbott,2025-07-29,Hyderabad
+2024-10-14,Metformin,Tablet,60,14,840,138,Abbott,2025-04-24,Bangalore
+2024-10-15,Pantoprazole,Syrup,30,26,780,615,Sun Pharma,2025-09-25,Pune
+2024-10-16,Atorvastatin,Capsule,123,15,1845,401,Cipla,2025-10-22,Pune
+2024-10-17,Metformin,Capsule,156,39,6084,211,Dr Reddy,2025-09-06,Mumbai
+2024-10-18,Atorvastatin,Capsule,61,46,2806,280,Cipla,2025-07-13,Pune
+2024-10-19,Amoxicillin,Capsule,172,21,3612,498,Dr Reddy,2026-09-01,Hyderabad
+2024-10-20,Paracetamol,Capsule,36,13,468,139,Dr Reddy,2025-07-08,Hyderabad
+2024-10-21,Paracetamol,Capsule,195,16,3120,527,Dr Reddy,2026-07-06,Mumbai
+2024-10-22,Amoxicillin,Syrup,52,22,1144,538,Abbott,2025-10-23,Mumbai
+2024-10-23,Metformin,Tablet,145,49,7105,948,Cipla,2026-05-15,Delhi
+2024-10-24,Pantoprazole,Syrup,192,30,5760,369,Sun Pharma,2025-08-31,Bangalore
+2024-10-25,Atorvastatin,Syrup,76,29,2204,944,Sun Pharma,2025-10-30,Bangalore
+2024-10-26,Pantoprazole,Tablet,199,32,6368,742,Sun Pharma,2026-06-03,Hyderabad
+2024-10-27,Metformin,Syrup,76,10,760,305,Sun Pharma,2026-05-16,Delhi
+2024-10-28,Cetrizine,Syrup,181,35,6335,448,Cipla,2026-02-27,Mumbai
+2024-10-29,Atorvastatin,Tablet,173,35,6055,865,Sun Pharma,2026-08-26,Bangalore
+2024-10-30,Pantoprazole,Tablet,49,46,2254,725,Abbott,2026-09-09,Hyderabad
+2024-10-31,Paracetamol,Tablet,186,40,7440,580,Dr Reddy,2026-01-26,Pune
+2024-11-01,Azithromycin,Syrup,113,27,3051,785,Sun Pharma,2025-08-18,Delhi
+2024-11-02,Pantoprazole,Tablet,171,41,7011,596,Cipla,2026-01-27,Pune
+2024-11-03,Metformin,Tablet,149,34,5066,970,Abbott,2026-09-11,Hyderabad
+2024-11-04,Metformin,Syrup,98,22,2156,880,Cipla,2026-08-12,Bangalore
+2024-11-05,Atorvastatin,Syrup,184,14,2576,463,Cipla,2026-08-17,Bangalore
+2024-11-06,Metformin,Syrup,165,13,2145,793,Cipla,2025-06-17,Delhi
+2024-11-07,Amoxicillin,Syrup,102,20,2040,364,Abbott,2026-08-29,Hyderabad
+2024-11-08,Metformin,Syrup,189,12,2268,171,Sun Pharma,2026-01-29,Mumbai
+2024-11-09,Amoxicillin,Syrup,46,15,690,714,Dr Reddy,2026-02-04,Mumbai
+2024-11-10,Azithromycin,Capsule,89,44,3916,506,Sun Pharma,2026-09-13,Delhi
+2024-11-11,Metformin,Syrup,181,39,7059,470,Abbott,2025-10-05,Delhi
+2024-11-12,Azithromycin,Syrup,67,44,2948,950,Abbott,2026-02-07,Delhi
+2024-11-13,Metformin,Syrup,32,6,192,649,Cipla,2026-05-17,Bangalore
+2024-11-14,Cetrizine,Capsule,181,47,8507,775,Cipla,2026-03-16,Pune
+2024-11-15,Paracetamol,Capsule,109,40,4360,346,Dr Reddy,2025-11-15,Bangalore
+2024-11-16,Amoxicillin,Capsule,108,32,3456,996,Sun Pharma,2026-08-04,Bangalore
+2024-11-17,Azithromycin,Syrup,136,42,5712,591,Cipla,2026-05-17,Bangalore
+2024-11-18,Atorvastatin,Tablet,123,18,2214,848,Dr Reddy,2026-01-21,Pune
+2024-11-19,Paracetamol,Capsule,30,24,720,459,Dr Reddy,2025-10-16,Hyderabad
+2024-11-20,Amoxicillin,Tablet,190,31,5890,563,Dr Reddy,2025-10-28,Bangalore
+2024-11-21,Paracetamol,Syrup,185,48,8880,381,Sun Pharma,2026-05-05,Pune
+2024-11-22,Cetrizine,Syrup,144,27,3888,231,Abbott,2025-11-19,Mumbai
+2024-11-23,Metformin,Syrup,93,6,558,769,Sun Pharma,2025-10-17,Mumbai
+2024-11-24,Cetrizine,Capsule,181,26,4706,568,Cipla,2026-09-15,Bangalore
+2024-11-25,Metformin,Tablet,147,19,2793,401,Cipla,2025-08-01,Mumbai
+2024-11-26,Amoxicillin,Syrup,116,48,5568,402,Abbott,2025-08-23,Pune
+2024-11-27,Pantoprazole,Syrup,108,27,2916,291,Abbott,2026-01-22,Pune
+2024-11-28,Paracetamol,Syrup,184,12,2208,602,Cipla,2025-12-04,Hyderabad
+2024-11-29,Azithromycin,Syrup,185,41,7585,155,Cipla,2025-12-10,Mumbai
+2024-11-30,Amoxicillin,Syrup,6,5,30,459,Sun Pharma,2025-09-13,Bangalore
+2024-12-01,Atorvastatin,Syrup,94,17,1598,990,Abbott,2026-08-17,Hyderabad
+2024-12-02,Metformin,Syrup,126,34,4284,556,Dr Reddy,2026-10-07,Pune
+2024-12-03,Atorvastatin,Tablet,35,29,1015,687,Dr Reddy,2026-03-05,Hyderabad
+2024-12-04,Atorvastatin,Syrup,133,5,665,860,Sun Pharma,2026-08-01,Hyderabad
+2024-12-05,Atorvastatin,Tablet,26,42,1092,710,Abbott,2025-06-10,Mumbai
+2024-12-06,Paracetamol,Capsule,94,17,1598,756,Cipla,2026-10-12,Hyderabad
+2024-12-07,Metformin,Tablet,167,18,3006,338,Dr Reddy,2026-10-26,Delhi
+2024-12-08,Pantoprazole,Capsule,163,39,6357,159,Cipla,2026-07-17,Mumbai
+2024-12-09,Azithromycin,Capsule,30,9,270,631,Sun Pharma,2026-08-28,Pune
+2024-12-10,Azithromycin,Capsule,136,21,2856,348,Sun Pharma,2025-06-20,Bangalore
+2024-12-11,Atorvastatin,Syrup,147,23,3381,674,Dr Reddy,2026-08-01,Mumbai
+2024-12-12,Amoxicillin,Syrup,151,24,3624,711,Abbott,2025-10-09,Bangalore
+2024-12-13,Pantoprazole,Syrup,129,21,2709,426,Sun Pharma,2025-08-14,Delhi
+2024-12-14,Cetrizine,Capsule,145,10,1450,925,Cipla,2026-09-17,Bangalore
+2024-12-15,Amoxicillin,Capsule,148,8,1184,528,Abbott,2026-02-04,Pune
+2024-12-16,Atorvastatin,Syrup,7,12,84,891,Dr Reddy,2025-11-19,Mumbai
+2024-12-17,Atorvastatin,Syrup,49,6,294,875,Abbott,2026-06-20,Pune
+2024-12-18,Pantoprazole,Capsule,61,20,1220,897,Sun Pharma,2025-12-29,Hyderabad
+2024-12-19,Pantoprazole,Capsule,171,38,6498,270,Cipla,2026-09-12,Pune
+2024-12-20,Pantoprazole,Syrup,112,8,896,192,Sun Pharma,2026-04-01,Pune
+2024-12-21,Azithromycin,Tablet,19,44,836,989,Cipla,2026-01-06,Bangalore
+2024-12-22,Metformin,Syrup,116,7,812,205,Dr Reddy,2026-07-25,Bangalore
+2024-12-23,Atorvastatin,Capsule,85,45,3825,515,Abbott,2026-09-17,Delhi
+2024-12-24,Metformin,Syrup,197,24,4728,249,Dr Reddy,2026-11-18,Mumbai
+2024-12-25,Cetrizine,Tablet,80,27,2160,369,Sun Pharma,2025-10-13,Delhi
+2024-12-26,Paracetamol,Syrup,77,27,2079,813,Cipla,2025-12-15,Hyderabad
+2024-12-27,Atorvastatin,Tablet,120,27,3240,129,Abbott,2026-02-16,Mumbai
+2024-12-28,Azithromycin,Syrup,62,34,2108,474,Cipla,2025-07-20,Delhi
+2024-12-29,Cetrizine,Syrup,52,38,1976,877,Dr Reddy,2026-12-01,Hyderabad
+2024-12-30,Pantoprazole,Tablet,177,11,1947,602,Abbott,2026-03-12,Bangalore
+2024-12-31,Paracetamol,Syrup,46,22,1012,153,Dr Reddy,2026-02-24,Delhi
