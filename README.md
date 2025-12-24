@@ -1,145 +1,191 @@
-# Pharmacy Demand Forecasting 📊💊
+📊 Pharmacy Demand Forecasting & Inventory Intelligence System
+📌 Business Problem
 
-## 🔍 Project Overview
+Pharmacies often face stock-outs of fast-moving medicines and overstocking of slow-moving or expiry-sensitive items.
+Both situations lead to revenue loss, expiry losses, and poor patient service.
 
-This project focuses on **forecasting medicine demand for a pharmacy** using historical sales data. The goal is to help pharmacies **avoid stock-outs, reduce overstocking, and improve inventory planning** using data-driven insights.
+This project aims to forecast medicine demand using historical sales data to support data-driven inventory and reorder decisions in a retail pharmacy setup.
 
-The project covers the **complete data analytics lifecycle**:
+🎯 Project Objective
 
-* Data creation & cleaning (Python)
-* Exploratory Data Analysis (EDA)
-* Demand forecasting using Machine Learning
-* Business dashboard using **Power BI**
-* Version control using **Git & GitHub**
+Analyze historical pharmacy sales data
 
----
+Forecast future medicine demand
 
-## 🎯 Business Problem
+Support reorder-level planning
 
-Pharmacies often face issues like:
+Reduce stock-outs and expiry risk
 
-* Medicines going out of stock
-* Excess inventory causing expiry losses
-* Poor visibility of future demand
+Provide insights through a Power BI dashboard
 
-### ✅ Solution
+🗂 Dataset Overview
 
-Using historical sales data, we predict **next 30 days medicine demand** so that pharmacies can:
+Source: Simulated / pharmacy-style transactional sales data
 
-* Order optimal stock
-* Reduce losses
-* Improve customer satisfaction
+Time Period: Multi-month historical data
 
----
+Key Columns:
 
-## 🧰 Tools & Technologies Used
+Date
 
-* **Python** (Pandas, NumPy, Matplotlib, Scikit-learn)
-* **Jupyter Notebook**
-* **Power BI** (Interactive dashboard)
-* **Git & GitHub** (Version control)
+Medicine Name
 
----
+Category
 
-## 📂 Project Structure
+Quantity Sold
 
-```
+Sales Value
+
+The dataset represents realistic pharmacy sales patterns suitable for operational decision-making.
+
+🛠 Tools & Technologies Used
+
+Excel – Initial data inspection
+
+Python
+
+Pandas (data cleaning & transformation)
+
+Matplotlib / Seaborn (EDA & visualization)
+
+Scikit-learn (forecasting model)
+
+Power BI – Interactive dashboard & KPI visualization
+
+🔄 Methodology (End-to-End Flow)
+1️⃣ Data Cleaning & Preparation
+
+Removed missing and inconsistent values
+
+Converted date columns into proper datetime format
+
+Aggregated daily sales into monthly demand
+
+Created derived features such as:
+
+Monthly sales trend
+
+Medicine-level demand
+
+2️⃣ Exploratory Data Analysis (EDA)
+
+Identified top-selling medicines
+
+Analyzed seasonal demand patterns
+
+Compared category-wise sales contribution
+
+Observed demand volatility across months
+
+3️⃣ Demand Forecasting
+
+Built a forecasting model using historical sales data
+
+Predicted future medicine demand
+
+Generated forecasts to assist inventory planning
+
+4️⃣ Model Evaluation
+
+The model was evaluated using standard regression metrics:
+
+RMSE (Root Mean Square Error)
+
+MAE (Mean Absolute Error)
+
+These metrics help assess forecast accuracy and reliability before using predictions for business decisions.
+
+5️⃣ Visualization & Dashboarding
+
+Created a Power BI dashboard with:
+
+Total Sales KPI
+
+Monthly Demand Trend
+
+Top Medicines by Demand
+
+Category-wise Contribution
+
+Forecast vs Actual comparison
+
+📈 Key Insights
+
+A small group of medicines contributes to a large share of total demand
+
+Certain categories show clear seasonal demand patterns
+
+Forecasting enables proactive reorder planning instead of reactive purchasing
+
+Demand prediction can significantly reduce stock-out risk for fast-moving medicines
+
+💡 Business Impact
+
+This system can help a real pharmacy to:
+
+Improve medicine availability
+
+Optimize reorder cycles
+
+Reduce expired stock losses
+
+Support data-driven inventory decisions
+
+Increase customer satisfaction and revenue stability
+
+📊 Dashboard Preview
+
+📌 Add a screenshot here
+
+visuals/pharmacy_demand_dashboard.png
+
+
+(Uploading a Power BI dashboard image here will greatly improve recruiter engagement.)
+
+📁 Project Structure
 pharmacy-demand-forecasting/
 │
 ├── data/
-│   ├── pharmacy_sales_raw.csv
-│   ├── pharmacy_sales_cleaned.csv
-│   └── 30_day_demand_forecast.csv
+│   ├── raw_sales_data.csv
+│   └── cleaned_sales_data.csv
 │
 ├── notebooks/
-│   ├── 01_data_creation.ipynb
-│   ├── 02_data_cleaning_eda.ipynb
-│   └── 03_demand_forecasting_model.ipynb
+│   └── demand_forecasting_analysis.ipynb
+│
+├── models/
+│   └── forecasting_model.pkl
 │
 ├── powerbi/
 │   └── pharmacy_demand_dashboard.pbix
 │
-├── README.md
-└── requirements.txt
-```
+├── visuals/
+│   └── dashboard_preview.png
+│
+└── README.md
 
----
+🚀 Future Enhancements
 
-## 📈 Machine Learning Model
+Implement advanced time-series models (ARIMA / Prophet)
 
-* Model Used: **Linear Regression**
-* Features: Date-based sales patterns
-* Target: Units Sold
+Add automatic reorder-level recommendations
 
-### Model Output
+Integrate expiry-based inventory risk
 
-* 30-day demand forecast
-* Saved as CSV for Power BI integration
+Deploy dashboard for real-time access
 
----
+🧠 Why This Project Matters
 
-## 📊 Power BI Dashboard
+This project demonstrates the ability to:
 
-The dashboard provides:
+Combine domain knowledge (pharmacy) with analytics
 
-* Daily & monthly sales trends
-* Medicine-wise demand
-* Forecasted demand visualization
-* Business-friendly KPIs
+Solve a real operational business problem
 
-📌 **Dashboard helps decision-makers quickly understand demand patterns**
+Work across the full data lifecycle
 
----
+Translate data into actionable decisions
 
----
+👤 Author
 
-## 🚀 How to Run This Project
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/abhijeetpatil-hub/pharmacy-demand-forecasting.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Run notebooks in order using Jupyter Notebook
-
-4. Open Power BI file to view dashboard
-
----
-
-## 📌 Key Learnings
-
-* End-to-end data science workflow
-* Business-focused forecasting
-* Git & GitHub practical usage
-* Power BI storytelling with data
-
----
-
-## 💼 Use Case
-
-This project can be used for:
-
-* Pharmacy inventory optimization
-* Retail demand forecasting
-* Freelance & consulting projects
-* Portfolio showcase for Data Analyst / Data Scientist roles
-
----
-
-## 👤 Author
-
-**Abhijeet Patil**
-Aspiring Data Scientist | Data Analytics | Power BI | Python
-
-🔗 GitHub: [https://github.com/abhijeetpatil-hub](https://github.com/abhijeetpatil-hub)
-
----
-
-⭐ *If you found this project useful, please star the repository!*
+Abhijeet Patil
+Data Analytics | Data Science | Healthcare & Pharmacy Domain
