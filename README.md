@@ -1,7 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhijeetpatil-hub/pharmacy-demand-forecasting/main)
 
-📊 Pharmacy Demand Forecasting & Inventory Intelligence System
+
+# 📊 Pharmacy Demand Forecasting & Inventory Intelligence System
 📌 Business Problem
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhijeetpatil-hub/pharmacy-demand-forecasting/main
+
 
 Pharmacies often face stock-outs of fast-moving medicines and overstocking of slow-moving or expiry-sensitive items.
 Both situations lead to revenue loss, expiry losses, and poor patient service.
