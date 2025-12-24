@@ -142,6 +142,7 @@ Increase customer satisfaction and revenue stability
 📊 Dashboard Preview
 
 <img width="1920" height="1080" alt="DASHBOARD (2)" src="https://github.com/user-attachments/assets/23317c88-afdf-4a4a-9228-346750e02352" />
+The Actual vs Predicted demand plot helps visually assess forecast bias and variability, confirming areas where the model underestimates or overestimates demand.
 
 
 visuals/pharmacy_demand_dashboard.png
